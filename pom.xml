@@ -70,6 +70,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>springboot-images</finalName>
     </build>
 
 </project>
