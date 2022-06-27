@@ -1,0 +1,8 @@
+version: '2.2'
+
+services:
+  spring_boot_docker_compose:
+    image: k8sw:1.1
+    container_name: spring_boot_sw
+    ports:
+      - 8087:8080
